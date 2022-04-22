@@ -1,0 +1,191 @@
+﻿Année,Industries,Sexe,Heures
+2017,"Total des employés, toutes les industries",Hommes,36.75
+2018,"Total des employés, toutes les industries",Hommes,37.57
+2019,"Total des employés, toutes les industries",Hommes,36.77
+2020,"Total des employés, toutes les industries",Hommes,36.80
+2021,"Total des employés, toutes les industries",Hommes,36.99
+2017,"Total des employés, toutes les industries",Femmes,31.74
+2018,"Total des employés, toutes les industries",Femmes,32.10
+2019,"Total des employés, toutes les industries",Femmes,32.00
+2020,"Total des employés, toutes les industries",Femmes,32.45
+2021,"Total des employés, toutes les industries",Femmes,32.75
+2017,Secteur de la production de biens,Hommes,39.82
+2018,Secteur de la production de biens,Hommes,40.67
+2019,Secteur de la production de biens,Hommes,39.81
+2020,Secteur de la production de biens,Hommes,39.79
+2021,Secteur de la production de biens,Hommes,40.12
+2017,Secteur de la production de biens,Femmes,35.95
+2018,Secteur de la production de biens,Femmes,36.65
+2019,Secteur de la production de biens,Femmes,36.00
+2020,Secteur de la production de biens,Femmes,37.14
+2021,Secteur de la production de biens,Femmes,36.58
+2017,Agriculture,Hommes,45.16
+2018,Agriculture,Hommes,47.93
+2019,Agriculture,Hommes,46.97
+2020,Agriculture,Hommes,49.76
+2021,Agriculture,Hommes,46.66
+2017,Agriculture,Femmes,30.44
+2018,Agriculture,Femmes,35.66
+2019,Agriculture,Femmes,37.34
+2020,Agriculture,Femmes,36.39
+2021,Agriculture,Femmes,36.62
+2017,"Foresterie, pêche, mines, exploitation en carrière, et extraction de pétrole et de gaz",Hommes,46.28
+2018,"Foresterie, pêche, mines, exploitation en carrière, et extraction de pétrole et de gaz",Hommes,45.70
+2019,"Foresterie, pêche, mines, exploitation en carrière, et extraction de pétrole et de gaz",Hommes,46.15
+2020,"Foresterie, pêche, mines, exploitation en carrière, et extraction de pétrole et de gaz",Hommes,44.06
+2021,"Foresterie, pêche, mines, exploitation en carrière, et extraction de pétrole et de gaz",Hommes,46.05
+2017,"Foresterie, pêche, mines, exploitation en carrière, et extraction de pétrole et de gaz",Femmes,37.73
+2018,"Foresterie, pêche, mines, exploitation en carrière, et extraction de pétrole et de gaz",Femmes,39.33
+2019,"Foresterie, pêche, mines, exploitation en carrière, et extraction de pétrole et de gaz",Femmes,40.45
+2020,"Foresterie, pêche, mines, exploitation en carrière, et extraction de pétrole et de gaz",Femmes,37.86
+2021,"Foresterie, pêche, mines, exploitation en carrière, et extraction de pétrole et de gaz",Femmes,37.85
+2017,Services publics,Hommes,39.23
+2018,Services publics,Hommes,38.71
+2019,Services publics,Hommes,37.91
+2020,Services publics,Hommes,37.30
+2021,Services publics,Hommes,39.01
+2017,Services publics,Femmes,33.56
+2018,Services publics,Femmes,34.08
+2019,Services publics,Femmes,33.39
+2020,Services publics,Femmes,35.93
+2021,Services publics,Femmes,34.35
+2017,Construction,Hommes,38.97
+2018,Construction,Hommes,39.81
+2019,Construction,Hommes,38.54
+2020,Construction,Hommes,37.83
+2021,Construction,Hommes,39.14
+2017,Construction,Femmes,34.24
+2018,Construction,Femmes,34.54
+2019,Construction,Femmes,35.02
+2020,Construction,Femmes,36.42
+2021,Construction,Femmes,35.14
+2017,Fabrication,Hommes,39.24
+2018,Fabrication,Hommes,39.98
+2019,Fabrication,Hommes,39.36
+2020,Fabrication,Hommes,39.47
+2021,Fabrication,Hommes,39.53
+2017,Fabrication,Femmes,36.76
+2018,Fabrication,Femmes,37.32
+2019,Fabrication,Femmes,36.09
+2020,Fabrication,Femmes,37.49
+2021,Fabrication,Femmes,37.08
+2017,Secteur des services,Hommes,35.46
+2018,Secteur des services,Hommes,36.23
+2019,Secteur des services,Hommes,35.45
+2020,Secteur des services,Hommes,35.48
+2021,Secteur des services,Hommes,35.63
+2017,Secteur des services,Femmes,31.25
+2018,Secteur des services,Femmes,31.63
+2019,Secteur des services,Femmes,31.58
+2020,Secteur des services,Femmes,31.93
+2021,Secteur des services,Femmes,32.31
+2017,Commerce de gros et de détail,Hommes,35.60
+2018,Commerce de gros et de détail,Hommes,35.82
+2019,Commerce de gros et de détail,Hommes,34.18
+2020,Commerce de gros et de détail,Hommes,34.35
+2021,Commerce de gros et de détail,Hommes,34.82
+2017,Commerce de gros et de détail,Femmes,30.26
+2018,Commerce de gros et de détail,Femmes,30.55
+2019,Commerce de gros et de détail,Femmes,29.61
+2020,Commerce de gros et de détail,Femmes,30.49
+2021,Commerce de gros et de détail,Femmes,29.86
+2017,Transport et entreposage,Hommes,40.08
+2018,Transport et entreposage,Hommes,40.88
+2019,Transport et entreposage,Hommes,40.66
+2020,Transport et entreposage,Hommes,40.05
+2021,Transport et entreposage,Hommes,39.44
+2017,Transport et entreposage,Femmes,32.34
+2018,Transport et entreposage,Femmes,33.25
+2019,Transport et entreposage,Femmes,34.53
+2020,Transport et entreposage,Femmes,33.74
+2021,Transport et entreposage,Femmes,37.10
+2017,"Finance, assurances, services immobiliers et de location",Hommes,36.06
+2018,"Finance, assurances, services immobiliers et de location",Hommes,37.62
+2019,"Finance, assurances, services immobiliers et de location",Hommes,36.99
+2020,"Finance, assurances, services immobiliers et de location",Hommes,35.98
+2021,"Finance, assurances, services immobiliers et de location",Hommes,36.72
+2017,"Finance, assurances, services immobiliers et de location",Femmes,33.23
+2018,"Finance, assurances, services immobiliers et de location",Femmes,34.10
+2019,"Finance, assurances, services immobiliers et de location",Femmes,34.00
+2020,"Finance, assurances, services immobiliers et de location",Femmes,34.03
+2021,"Finance, assurances, services immobiliers et de location",Femmes,34.85
+2017,"Services professionnels, scientifiques et techniques",Hommes,37.83
+2018,"Services professionnels, scientifiques et techniques",Hommes,38.53
+2019,"Services professionnels, scientifiques et techniques",Hommes,37.55
+2020,"Services professionnels, scientifiques et techniques",Hommes,37.73
+2021,"Services professionnels, scientifiques et techniques",Hommes,37.47
+2017,"Services professionnels, scientifiques et techniques",Femmes,33.73
+2018,"Services professionnels, scientifiques et techniques",Femmes,34.06
+2019,"Services professionnels, scientifiques et techniques",Femmes,34.35
+2020,"Services professionnels, scientifiques et techniques",Femmes,34.33
+2021,"Services professionnels, scientifiques et techniques",Femmes,35.67
+2017,"Services aux entreprises, services relatifs aux bâtiments et autres services de soutien",Hommes,33.34
+2018,"Services aux entreprises, services relatifs aux bâtiments et autres services de soutien",Hommes,35.75
+2019,"Services aux entreprises, services relatifs aux bâtiments et autres services de soutien",Hommes,33.73
+2020,"Services aux entreprises, services relatifs aux bâtiments et autres services de soutien",Hommes,34.97
+2021,"Services aux entreprises, services relatifs aux bâtiments et autres services de soutien",Hommes,34.94
+2017,"Services aux entreprises, services relatifs aux bâtiments et autres services de soutien",Femmes,28.57
+2018,"Services aux entreprises, services relatifs aux bâtiments et autres services de soutien",Femmes,29.53
+2019,"Services aux entreprises, services relatifs aux bâtiments et autres services de soutien",Femmes,29.01
+2020,"Services aux entreprises, services relatifs aux bâtiments et autres services de soutien",Femmes,29.09
+2021,"Services aux entreprises, services relatifs aux bâtiments et autres services de soutien",Femmes,30.51
+2017,Services d'enseignement,Hommes,31.68
+2018,Services d'enseignement,Hommes,32.58
+2019,Services d'enseignement,Hommes,31.76
+2020,Services d'enseignement,Hommes,31.74
+2021,Services d'enseignement,Hommes,32.58
+2017,Services d'enseignement,Femmes,29.69
+2018,Services d'enseignement,Femmes,30.26
+2019,Services d'enseignement,Femmes,30.62
+2020,Services d'enseignement,Femmes,29.92
+2021,Services d'enseignement,Femmes,31.04
+2017,Soins de santé et assistance sociale,Hommes,35.84
+2018,Soins de santé et assistance sociale,Hommes,36.30
+2019,Soins de santé et assistance sociale,Hommes,35.82
+2020,Soins de santé et assistance sociale,Hommes,36.23
+2021,Soins de santé et assistance sociale,Hommes,35.53
+2017,Soins de santé et assistance sociale,Femmes,33.07
+2018,Soins de santé et assistance sociale,Femmes,33.31
+2019,Soins de santé et assistance sociale,Femmes,33.24
+2020,Soins de santé et assistance sociale,Femmes,33.73
+2021,Soins de santé et assistance sociale,Femmes,33.63
+2017,"Information, culture et loisirs",Hommes,33.67
+2018,"Information, culture et loisirs",Hommes,33.86
+2019,"Information, culture et loisirs",Hommes,33.28
+2020,"Information, culture et loisirs",Hommes,34.07
+2021,"Information, culture et loisirs",Hommes,34.84
+2017,"Information, culture et loisirs",Femmes,30.03
+2018,"Information, culture et loisirs",Femmes,29.80
+2019,"Information, culture et loisirs",Femmes,30.12
+2020,"Information, culture et loisirs",Femmes,31.01
+2021,"Information, culture et loisirs",Femmes,30.47
+2017,Services d'hébergement et de restauration,Hommes,30.72
+2018,Services d'hébergement et de restauration,Hommes,30.77
+2019,Services d'hébergement et de restauration,Hommes,30.57
+2020,Services d'hébergement et de restauration,Hommes,28.18
+2021,Services d'hébergement et de restauration,Hommes,28.00
+2017,Services d'hébergement et de restauration,Femmes,26.56
+2018,Services d'hébergement et de restauration,Femmes,26.58
+2019,Services d'hébergement et de restauration,Femmes,26.89
+2020,Services d'hébergement et de restauration,Femmes,25.04
+2021,Services d'hébergement et de restauration,Femmes,25.15
+2017,Autres services (sauf les administrations publiques),Hommes,35.86
+2018,Autres services (sauf les administrations publiques),Hommes,37.52
+2019,Autres services (sauf les administrations publiques),Hommes,37.05
+2020,Autres services (sauf les administrations publiques),Hommes,36.50
+2021,Autres services (sauf les administrations publiques),Hommes,36.51
+2017,Autres services (sauf les administrations publiques),Femmes,30.38
+2018,Autres services (sauf les administrations publiques),Femmes,31.17
+2019,Autres services (sauf les administrations publiques),Femmes,31.22
+2020,Autres services (sauf les administrations publiques),Femmes,30.84
+2021,Autres services (sauf les administrations publiques),Femmes,30.73
+2017,Administrations publiques,Hommes,35.48
+2018,Administrations publiques,Hommes,36.06
+2019,Administrations publiques,Hommes,35.01
+2020,Administrations publiques,Hommes,35.93
+2021,Administrations publiques,Hommes,35.93
+2017,Administrations publiques,Femmes,33.10
+2018,Administrations publiques,Femmes,33.40
+2019,Administrations publiques,Femmes,33.12
+2020,Administrations publiques,Femmes,33.16
+2021,Administrations publiques,Femmes,34.20
